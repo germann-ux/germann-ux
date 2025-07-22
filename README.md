@@ -77,7 +77,7 @@ Guía práctica para usar el ecosistema .NET sin gastar dinero, ideal para estud
 | Plataforma | Enlace |
 |-----------|--------|
 | GitHub | [@germann-ux](https://github.com/germann-ux) |
-| CV Web | [germann-ux.github.io/CV](https://germann-ux.github.io/MiCV/index.html) |
+| CV Web | [germann-ux.github.io/MiCV/](https://germann-ux.github.io/MiCV/) |
 | Correo | germanev123@gmail.com|
 
 ---
