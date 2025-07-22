@@ -38,7 +38,7 @@ Una plataforma educativa en Blazor para aprender C# desde cero con IA, práctica
 
 ---
 
-### [💼 Mi CV Web](https://github.com/germann-ux/CV)  
+### [💼 Mi CV Web](https://github.com/germann-ux/MiCV)  
 Portafolio personal diseñado desde cero, sin frameworks, totalmente responsivo.
 
 - Diseño limpio y lineal
@@ -77,7 +77,7 @@ Guía práctica para usar el ecosistema .NET sin gastar dinero, ideal para estud
 | Plataforma | Enlace |
 |-----------|--------|
 | GitHub | [@germann-ux](https://github.com/germann-ux) |
-| CV Web | [germann-ux.github.io/CV](https://germann-ux.github.io/CV) |
+| CV Web | [germann-ux.github.io/CV](https://germann-ux.github.io/MiCV/index.html) |
 | Correo | germanev123@gmail.com|
 
 ---
