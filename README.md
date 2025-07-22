@@ -1,11 +1,21 @@
-# Soy Germán Uriel Evangelista Martínez (chermann)
-
-> *"Intento programar."*
-
-Actualmente soy **estudiante de bachillerato**, autodidacta y apasionado por la tecnología.  
-He trabajado por mi cuenta en proyectos que combinan **software, electrónica y otros gustos y pensares mios**, buscando resolver problemas reales o simplemente aprender algo nuevo. No tengo título (todavía), pero sí ganas de hacer las cosas bien.
-(en realidad casi nunca uso github, pero intento que no se vea mal)
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; padding-right: 20px; border-right: 2px solid #444;">
+      <h1>Soy Germán Uriel Evangelista Martínez (chermann)</h1>
+      <blockquote><em>"Intento programar."</em></blockquote>
+      <p style="text-align: justify;">
+        Actualmente soy <strong>estudiante de bachillerato</strong>, autodidacta y apasionado por la tecnología.  
+        He trabajado por mi cuenta en proyectos que combinan <strong>software, electrónica y otros gustos y pensares míos</strong>,  
+        buscando resolver problemas reales o simplemente aprender algo nuevo.  
+        No tengo título (todavía), pero sí <strong>ganas de hacer las cosas bien</strong>.<br>
+        <span style="color:gray; font-size: 0.9em;">(en realidad casi nunca uso GitHub, pero intento que no se vea mal)</span>
+      </p>
+    </td>
+    <td width="40%" style="vertical-align: top; padding-left: 20px;">
+      <img src="Deltarune.png" alt="Banner pixelado" style="width:100%; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Proyectos que estoy desarrollando
@@ -48,9 +58,9 @@ Guía práctica para usar el ecosistema .NET sin gastar dinero, ideal para estud
 
 ## 📊 Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=germann-ux\&rank_icon=github\&theme=tokyonight) 
+![Stats](https://github-readme-stats.vercel.app/api?username=germann-ux&rank_icon=github&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germann-ux&hide_progress=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germann-ux&hide_progress=true&theme=tokyonight)
 
 ---
 
