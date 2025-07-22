@@ -1,9 +1,9 @@
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="vertical-align: top; padding-right: 20px; border-right: 2px solid #444;">
-      <h1>Soy Germán Uriel Evangelista Martínez (chermann)</h1>
-      <blockquote><em>"Intento programar."</em></blockquote>
-      <p style="text-align: justify;">
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <h2>Soy Germán Uriel Evangelista Martínez (chermann)</h2>
+      <em>"Intento programar."</em>
+      <p align="justify">
         Actualmente soy <strong>estudiante de bachillerato</strong>, autodidacta y apasionado por la tecnología.  
         He trabajado por mi cuenta en proyectos que combinan <strong>software, electrónica y otros gustos y pensares míos</strong>,  
         buscando resolver problemas reales o simplemente aprender algo nuevo.  
@@ -11,13 +11,13 @@
         <span style="color:gray; font-size: 0.9em;">(en realidad casi nunca uso GitHub, pero intento que no se vea mal)</span>
       </p>
     </td>
-    <td width="40%" style="vertical-align: top; padding-left: 20px;">
-      <img src="Deltarune.png" alt="Banner pixelado" style="width:100%; border-radius: 10px;" />
+    <td style="padding-left: 20px; vertical-align: top;" width="40%">
+      <img src="Deltarune.png" alt="Banner pixelado" width="100%">
     </td>
   </tr>
 </table>
----
 
+---
 ## 🚀 Proyectos que estoy desarrollando
 
 ### [🧠 Casandra](https://github.com/germann-ux/Casandra)  
