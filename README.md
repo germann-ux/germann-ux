@@ -60,7 +60,7 @@ Guía práctica para usar el ecosistema .NET sin gastar dinero, ideal para estud
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=germann-ux&rank_icon=github&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germann-ux&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germann-ux&hide=html,css&theme=tokyonight)
 
 ---
 
