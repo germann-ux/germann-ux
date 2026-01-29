@@ -80,10 +80,10 @@ Usa Aspire, Docker y alternativas locales a Azure.
 ---
 
 ## 📊 Estadísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=germann-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=germann-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germann-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&hide=HTML" height="150" />
+</div>
 
 ---
 
