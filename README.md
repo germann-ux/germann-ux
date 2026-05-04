@@ -1,52 +1,57 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:512BD4,100:239120&height=140&section=header&text=Germán%20Uriel&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=Software%20Developer%20·%20México&descSize=15&descAlignY=80&descFontColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:7c3aed,100:0ea5e9&height=140&section=header&text=Germán%20Uriel&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=Software%20Developer%20·%20México&descSize=15&descAlignY=80&descFontColor=cbd5f5"/>
 
 <br>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,python,fedora&perline=4" />
+</p>
 
-<br>
+<p align="center">
+  <sub>
+    .NET Engineering · Applied AI · Scientific Computing · Quantum Computing
+  </sub>
+</p>
 
+<div align="center">
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="38%" valign="top">
 
-Construyo sistemas con intención.  
-Arquitectura y diseño de software.
-
+**Sobre mi**</br>
+</br>
+Mi nombre es German Uriel Evangelista Martinez, 
+Construyo sistemas con intención, disfrutando de el proceso de idear algo.
 <br>
-
-**Stack principal**  
-C# · .NET · Blazor · MAUI · Docker  
-SQL Server · MySQL
-
+[Project Archive →](https://github.com/germann-ux/project-library-gux)
 <br>
+<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=github&logoColor=white)](https://germann-ux.github.io/MiCV)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanev123@gmail.com)
+<td width="31%" valign="top">
 
-→ Explorando arquitectura limpia en .NET  
-→ [Biblioteca de proyectos](https://github.com/germann-ux/project-library-gux)
+**Enfoque**
+
+`Software Architecture`  
+`Scalable Systems`  
+`Technical Design`  
+`.NET Engineering`  
+`System Modeling`
 
 </td>
-<td width="35%" valign="top">
 
-**Enfoque**  
-Arquitectura de software  
-Sistemas escalables  
-Diseño técnico
+<td width="31%" valign="top">
+
+**Intereses**
+
+`Applied AI`  
+`Scientific Computing`  
+`Hardware + Software`  
+`Physics`  
 
 <br>
-
-**Contacto**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://germann-ux.github.io/MiCV)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanev123@gmail.com)
-
 </td>
 </tr>
 </table>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:512BD4&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:0ea5e9&height=80&section=footer"/>
